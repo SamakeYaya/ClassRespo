@@ -220,7 +220,7 @@ class Utilisateur
         //     setcookie(session_name(), '', time() - 42000, '/');
         // }
 
-        // Détruit la session
+        // Détruit la session 
         session_destroy();
     }
     // Cette fonction permet de recuperer l Id d'un use
