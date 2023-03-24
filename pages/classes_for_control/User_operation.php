@@ -128,7 +128,7 @@ class Utilisateur
         // Supprime toutes les balises HTML et PHP de la chaîne
         $data = strip_tags($data);
 
-        // Supprime les antislashs ajoutés pour échapper les caractères spéciaux
+        // Supprime les antislashs ajoutés pour échapper les caractères spéciaux 
         $data = stripslashes($data);
 
         // Retourne la chaîne riginale
