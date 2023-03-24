@@ -223,7 +223,7 @@ class Utilisateur
         // Détruit la session 
         session_destroy();
     }
-    // Cette fonction permet de recuperer l Id d'un use
+    // Cette fonction permet de recuperer l Id d'un use 
     static function getParamId()
     {
         if (isset($_GET['id'])) {
