@@ -1,0 +1,27 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "files.autoSave": "afterDelay",
+    "window.zoomLevel": 0,
+    "editor.minimap.enabled": false,
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": false,
+    "editor.renderWhitespace": "trailing",
+    "editor.linkedEditing": true, // Permet de lier les deux balises. ex quand on veut modifier
+    "editor.occurrencesHighlight": false,
+    "editor.suggest.insertMode": "replace",
+    "editor.acceptSuggestionOnCommitCharacter": false, // S occupe des suggestion quand on met un point ex a la fin d une commande
+    "explorer.autoReveal": false, // Evite d ouvrir le chemin de fichier lorsqu on l' ouvre
+    "explorer.confirmDragAndDrop": false, // le message de confirmation lorsqu on faire un glisser deposer
+    "explorer.confirmDelete": false, // "workbench.colorTheme":"Tomorrow Night Blue"
+    "workbench.tree.indent": 10, // Pour l indentation (le decalage) entre le dossiers et les fichiers 
+    "workbench.tree.renderIndentGuides": "always", // La barre d 'indentation sera toujours activee
+    "workbench.editor.enablePreview": false, // permet d ouvrir un fichier sur un autre onglet
+    "emmet.triggerExpansionOnTab": true, // "workbench.colorTheme": "Tokyo Night"
+    "editor.fontFamily": "'jetBrains Mono',Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    // "editor.lineHeight": 1.5,
+    "editor.fontSize": 17,
+    "workbench.colorCustomizations": {
+        "editor.selectionBackground": "#130444"
+    }
+}
